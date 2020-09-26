@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ex-routing"
+    }
+  },
+  "defaultProject": "ex-routing",
+  "cli": {
+    "analytics": false
+  }
 }
